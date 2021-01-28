@@ -8,22 +8,21 @@ def default_pods
   # pod 'Firebase/Core', '~> 6.13.0'
   # pod 'Firebase/Auth', '~> 6.13.0'
   # pod 'Firebase/Messaging', '~> 6.13.0'
-
   # pod 'RNFirebase', :path => '../node_modules/react-native-firebase/ios'
   # pod 'RNFirebase/Crashlytics', :path => '../node_modules/react-native-firebase/ios'
 
-  # Pods for PodTest
+  # Pods for PodTest Scrashlytics
   # pod 'Fabric', '~> 1.10.2'
   # pod 'Crashlytics', '~> 3.14.0'
+  # pod 'GoogleIDFASupport', '~> 3.14.0'
 
-  pod 'GoogleIDFASupport', '~> 3.14.0'
+  # (Recommended) Pod for Google Analytics
+  # pod 'Firebase/Analytics'
 
   permissions_path = '../node_modules/react-native-permissions/ios'
   pod 'Permission-LocationAlways', :path => "#{permissions_path}/LocationAlways"
   pod 'Permission-LocationWhenInUse', :path => "#{permissions_path}/LocationWhenInUse"
 
-  # (Recommended) Pod for Google Analytics
-  # pod 'Firebase/Analytics'
 
   config = use_native_modules!
 

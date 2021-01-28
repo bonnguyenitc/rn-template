@@ -4,7 +4,7 @@
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
 
-// Firebase
+// TODO: For Firebase
 // #import <Firebase.h>
 // #import "RNFirebaseNotifications.h"
 // #import "RNFirebaseMessaging.h"

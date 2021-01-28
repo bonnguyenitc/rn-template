@@ -47,15 +47,6 @@
 	<string>This application requires location services to work properly.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>This application requires location services to work properly.</string>
-	<key>UIAppFonts</key>
-	<array>
-		<string>NotoSansJP-Black.otf</string>
-		<string>NotoSansJP-Bold.otf</string>
-		<string>NotoSansJP-Light.otf</string>
-		<string>NotoSansJP-Medium.otf</string>
-		<string>NotoSansJP-Regular.otf</string>
-		<string>NotoSansJP-Thin.otf</string>
-	</array>
 	<key>UIBackgroundModes</key>
 	<array/>
 	<key>UILaunchStoryboardName</key>

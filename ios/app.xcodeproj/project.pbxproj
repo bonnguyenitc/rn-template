@@ -11,32 +11,14 @@
 		6771878A2567548500CE3BCF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		6771878E2567548500CE3BCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		6771878F2567548500CE3BCF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		677187902567548500CE3BCF /* NotoSansJP-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 924DE401248043DEBE6F96F3 /* NotoSansJP-Black.otf */; };
-		677187912567548500CE3BCF /* NotoSansJP-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E17B4DE75231460CB3C4DDE4 /* NotoSansJP-Bold.otf */; };
-		677187922567548500CE3BCF /* NotoSansJP-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = D99B6942CD9843028A7505C7 /* NotoSansJP-Light.otf */; };
-		677187932567548500CE3BCF /* NotoSansJP-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = CECCDE893AD24C71A3A6D971 /* NotoSansJP-Medium.otf */; };
-		677187942567548500CE3BCF /* NotoSansJP-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 76164BA7B5454C17AC267FC1 /* NotoSansJP-Regular.otf */; };
-		677187952567548500CE3BCF /* NotoSansJP-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA37C805F5D447F68B928B34 /* NotoSansJP-Thin.otf */; };
 		677187A12567557C00CE3BCF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		677187A22567557C00CE3BCF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		677187A62567557C00CE3BCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		677187A72567557C00CE3BCF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		677187A82567557C00CE3BCF /* NotoSansJP-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 924DE401248043DEBE6F96F3 /* NotoSansJP-Black.otf */; };
-		677187A92567557C00CE3BCF /* NotoSansJP-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E17B4DE75231460CB3C4DDE4 /* NotoSansJP-Bold.otf */; };
-		677187AA2567557C00CE3BCF /* NotoSansJP-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = D99B6942CD9843028A7505C7 /* NotoSansJP-Light.otf */; };
-		677187AB2567557C00CE3BCF /* NotoSansJP-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = CECCDE893AD24C71A3A6D971 /* NotoSansJP-Medium.otf */; };
-		677187AC2567557C00CE3BCF /* NotoSansJP-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 76164BA7B5454C17AC267FC1 /* NotoSansJP-Regular.otf */; };
-		677187AD2567557C00CE3BCF /* NotoSansJP-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA37C805F5D447F68B928B34 /* NotoSansJP-Thin.otf */; };
 		677187B92567559500CE3BCF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		677187BA2567559500CE3BCF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		677187BE2567559500CE3BCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		677187BF2567559500CE3BCF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		677187C02567559500CE3BCF /* NotoSansJP-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 924DE401248043DEBE6F96F3 /* NotoSansJP-Black.otf */; };
-		677187C12567559500CE3BCF /* NotoSansJP-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E17B4DE75231460CB3C4DDE4 /* NotoSansJP-Bold.otf */; };
-		677187C22567559500CE3BCF /* NotoSansJP-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = D99B6942CD9843028A7505C7 /* NotoSansJP-Light.otf */; };
-		677187C32567559500CE3BCF /* NotoSansJP-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = CECCDE893AD24C71A3A6D971 /* NotoSansJP-Medium.otf */; };
-		677187C42567559500CE3BCF /* NotoSansJP-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 76164BA7B5454C17AC267FC1 /* NotoSansJP-Regular.otf */; };
-		677187C52567559500CE3BCF /* NotoSansJP-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA37C805F5D447F68B928B34 /* NotoSansJP-Thin.otf */; };
 		71D96C0846BD2381F6C822E1 /* libPods-production.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6C3204C280B1108D39A210AF /* libPods-production.a */; };
 		CFC0E50D823C17A6CB12B1F0 /* libPods-staging.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0ECF5D6994C50D78FDAA6436 /* libPods-staging.a */; };
 		D17FBE1DD176DB056C30A84B /* libPods-development.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18B59D6E16678181E860573D /* libPods-development.a */; };
@@ -68,21 +50,15 @@
 		6FBAC5BFBF7D04A73FA6BF47 /* Pods-staging.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-staging.debug.xcconfig"; path = "Target Support Files/Pods-staging/Pods-staging.debug.xcconfig"; sourceTree = "<group>"; };
 		72A9098E4D9BE4E4F367B406 /* Pods-app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-app.debug.xcconfig"; path = "Target Support Files/Pods-app/Pods-app.debug.xcconfig"; sourceTree = "<group>"; };
 		72BF12EF22B0FE85091459C1 /* Pods-production.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-production.debug.xcconfig"; path = "Target Support Files/Pods-production/Pods-production.debug.xcconfig"; sourceTree = "<group>"; };
-		76164BA7B5454C17AC267FC1 /* NotoSansJP-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Regular.otf"; path = "../src/assets/fonts/NotoSansJP-Regular.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = app/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		849CF1FFDA54B0138D073361 /* Pods-production.staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-production.staging.xcconfig"; path = "Target Support Files/Pods-production/Pods-production.staging.xcconfig"; sourceTree = "<group>"; };
 		8E6CBC42297E326F2029D129 /* Pods-app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-app.release.xcconfig"; path = "Target Support Files/Pods-app/Pods-app.release.xcconfig"; sourceTree = "<group>"; };
-		924DE401248043DEBE6F96F3 /* NotoSansJP-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Black.otf"; path = "../src/assets/fonts/NotoSansJP-Black.otf"; sourceTree = "<group>"; };
 		BB3E34204DEC7436C75A71CD /* Pods-development.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-development.debug.xcconfig"; path = "Target Support Files/Pods-development/Pods-development.debug.xcconfig"; sourceTree = "<group>"; };
 		C3F5EAC068E0D24D69D46DB3 /* Pods-staging.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-staging.release.xcconfig"; path = "Target Support Files/Pods-staging/Pods-staging.release.xcconfig"; sourceTree = "<group>"; };
 		C58053ADD6809E1661F9FB37 /* Pods-app-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-app-tvOS.release.xcconfig"; path = "Target Support Files/Pods-app-tvOS/Pods-app-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		CA37C805F5D447F68B928B34 /* NotoSansJP-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Thin.otf"; path = "../src/assets/fonts/NotoSansJP-Thin.otf"; sourceTree = "<group>"; };
 		CC4AE2679E915F04651773F0 /* libPods-app-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-app-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC81F5DE2B18EC8F3474AB83 /* Pods-app-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-app-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-app-tvOS/Pods-app-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		CECCDE893AD24C71A3A6D971 /* NotoSansJP-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Medium.otf"; path = "../src/assets/fonts/NotoSansJP-Medium.otf"; sourceTree = "<group>"; };
-		D99B6942CD9843028A7505C7 /* NotoSansJP-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Light.otf"; path = "../src/assets/fonts/NotoSansJP-Light.otf"; sourceTree = "<group>"; };
 		E0EA259FB7B8FC483FEE2497 /* Pods-app-appTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-app-appTests.debug.xcconfig"; path = "Target Support Files/Pods-app-appTests/Pods-app-appTests.debug.xcconfig"; sourceTree = "<group>"; };
-		E17B4DE75231460CB3C4DDE4 /* NotoSansJP-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansJP-Bold.otf"; path = "../src/assets/fonts/NotoSansJP-Bold.otf"; sourceTree = "<group>"; };
 		E2FACF413833B8745B81466C /* Pods-development.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-development.release.xcconfig"; path = "Target Support Files/Pods-development/Pods-development.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
@@ -192,12 +168,6 @@
 		6E7E431F9CEF4EF495FC22D9 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				924DE401248043DEBE6F96F3 /* NotoSansJP-Black.otf */,
-				E17B4DE75231460CB3C4DDE4 /* NotoSansJP-Bold.otf */,
-				D99B6942CD9843028A7505C7 /* NotoSansJP-Light.otf */,
-				CECCDE893AD24C71A3A6D971 /* NotoSansJP-Medium.otf */,
-				76164BA7B5454C17AC267FC1 /* NotoSansJP-Regular.otf */,
-				CA37C805F5D447F68B928B34 /* NotoSansJP-Thin.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -212,16 +182,16 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				675D5D45258CBA47005D6B5D /* development.entitlements */,
+				675D5D43258CBA35005D6B5D /* production.entitlements */,
+				675D5D44258CBA3E005D6B5D /* staging.entitlements */,
 				13B07FAE1A68108700A75B9A /* app */,
 				00E356EF1AD99517003FC87E /* appTests */,
-				675D5D45258CBA47005D6B5D /* development.entitlements */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				3589FACAE386DD79FBD8FA27 /* Pods */,
-				675D5D43258CBA35005D6B5D /* production.entitlements */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				6E7E431F9CEF4EF495FC22D9 /* Resources */,
-				675D5D44258CBA3E005D6B5D /* staging.entitlements */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -351,12 +321,6 @@
 			files = (
 				6771878E2567548500CE3BCF /* LaunchScreen.storyboard in Resources */,
 				6771878F2567548500CE3BCF /* Images.xcassets in Resources */,
-				677187902567548500CE3BCF /* NotoSansJP-Black.otf in Resources */,
-				677187912567548500CE3BCF /* NotoSansJP-Bold.otf in Resources */,
-				677187922567548500CE3BCF /* NotoSansJP-Light.otf in Resources */,
-				677187932567548500CE3BCF /* NotoSansJP-Medium.otf in Resources */,
-				677187942567548500CE3BCF /* NotoSansJP-Regular.otf in Resources */,
-				677187952567548500CE3BCF /* NotoSansJP-Thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,12 +330,6 @@
 			files = (
 				677187A62567557C00CE3BCF /* LaunchScreen.storyboard in Resources */,
 				677187A72567557C00CE3BCF /* Images.xcassets in Resources */,
-				677187A82567557C00CE3BCF /* NotoSansJP-Black.otf in Resources */,
-				677187A92567557C00CE3BCF /* NotoSansJP-Bold.otf in Resources */,
-				677187AA2567557C00CE3BCF /* NotoSansJP-Light.otf in Resources */,
-				677187AB2567557C00CE3BCF /* NotoSansJP-Medium.otf in Resources */,
-				677187AC2567557C00CE3BCF /* NotoSansJP-Regular.otf in Resources */,
-				677187AD2567557C00CE3BCF /* NotoSansJP-Thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -381,12 +339,6 @@
 			files = (
 				677187BE2567559500CE3BCF /* LaunchScreen.storyboard in Resources */,
 				677187BF2567559500CE3BCF /* Images.xcassets in Resources */,
-				677187C02567559500CE3BCF /* NotoSansJP-Black.otf in Resources */,
-				677187C12567559500CE3BCF /* NotoSansJP-Bold.otf in Resources */,
-				677187C22567559500CE3BCF /* NotoSansJP-Light.otf in Resources */,
-				677187C32567559500CE3BCF /* NotoSansJP-Medium.otf in Resources */,
-				677187C42567559500CE3BCF /* NotoSansJP-Regular.otf in Resources */,
-				677187C52567559500CE3BCF /* NotoSansJP-Thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -665,7 +617,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = jp.bap.app;
+				PRODUCT_BUNDLE_IDENTIFIER = rn.template;
 				PRODUCT_NAME = "RN template";
 				PROVISIONING_PROFILE_SPECIFIER = "app-dis";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -889,7 +841,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = jp.bap.app;
+				PRODUCT_BUNDLE_IDENTIFIER = rn.template;
 				PRODUCT_NAME = "RN template";
 				PROVISIONING_PROFILE_SPECIFIER = "app-dis";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";

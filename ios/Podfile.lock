@@ -19,7 +19,6 @@ PODS:
     - DoubleConversion
     - glog
   - glog (0.3.5)
-  - GoogleIDFASupport (3.14.0)
   - Permission-LocationAlways (3.0.0):
     - RNPermissions
   - Permission-LocationWhenInUse (3.0.0):
@@ -286,7 +285,6 @@ DEPENDENCIES:
   - FBReactNativeSpec (from `../node_modules/react-native/Libraries/FBReactNativeSpec`)
   - Folly (from `../node_modules/react-native/third-party-podspecs/Folly.podspec`)
   - glog (from `../node_modules/react-native/third-party-podspecs/glog.podspec`)
-  - GoogleIDFASupport (~> 3.14.0)
   - Permission-LocationAlways (from `../node_modules/react-native-permissions/ios/LocationAlways`)
   - Permission-LocationWhenInUse (from `../node_modules/react-native-permissions/ios/LocationWhenInUse`)
   - RCTRequired (from `../node_modules/react-native/Libraries/RCTRequired`)
@@ -329,7 +327,6 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - boost-for-react-native
-    - GoogleIDFASupport
 
 EXTERNAL SOURCES:
   DoubleConversion:
@@ -422,7 +419,6 @@ SPEC CHECKSUMS:
   FBReactNativeSpec: 7da9338acfb98d4ef9e5536805a0704572d33c2f
   Folly: b73c3869541e86821df3c387eb0af5f65addfab4
   glog: 40a13f7840415b9a77023fbcae0f1e6f43192af3
-  GoogleIDFASupport: aaf8c10bd429abb1c15349d5252244f5eda8ead1
   Permission-LocationAlways: c083f45f28c4b78ddc6f9668cf1a984d879a80ec
   Permission-LocationWhenInUse: e2b8c40ce0f3675a521f26787ab47ebb9bace503
   RCTRequired: 48884c74035a0b5b76dbb7a998bd93bcfc5f2047
@@ -460,6 +456,6 @@ SPEC CHECKSUMS:
   RNSVG: ce9d996113475209013317e48b05c21ee988d42e
   Yoga: 7d13633d129fd179e01b8953d38d47be90db185a
 
-PODFILE CHECKSUM: b7f2748a4922d5446eb49be272bb22312c94b381
+PODFILE CHECKSUM: cb6c629b0e572fbc7220d61d763e781dd870d72e
 
 COCOAPODS: 1.9.3

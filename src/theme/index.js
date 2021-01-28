@@ -20,7 +20,7 @@ const palette = {
     blue3: '#F7F9FF'
 };
 
-const fontFamily = 'NotoSansJP-Regular';
+// const fontFamily = '';
 
 const scaleFont = (size) => Styles.scaleFont(size);
 
@@ -85,114 +85,108 @@ export const theme = createTheme({
         '14-500': {
             fontSize: scaleFont(14),
             fontWeight: '500',
-            lineHeight: scaleFont(24),
-            fontFamily
+            lineHeight: scaleFont(24)
         },
         '14-400': {
             fontSize: scaleFont(14),
             fontWeight: '400',
-            lineHeight: scaleFont(24),
-            fontFamily
+            lineHeight: scaleFont(24)
         },
         '14-bold': {
             fontSize: scaleFont(14),
             fontWeight: 'bold',
-            lineHeight: scaleFont(20.27),
-            fontFamily
+            lineHeight: scaleFont(20.27)
         },
         '18-500': {
             fontSize: scaleFont(18),
             fontWeight: '500',
-            lineHeight: scaleFont(26.06),
-            fontFamily
+            lineHeight: scaleFont(26.06)
         },
         '18-400': {
             fontSize: scaleFont(18),
             fontWeight: '400',
-            lineHeight: scaleFont(26.06),
-            fontFamily
+            lineHeight: scaleFont(26.06)
         },
         '16-300': {
             fontSize: scaleFont(16),
-            fontFamily,
             fontWeight: '300',
             lineHeight: scaleFont(22)
         },
         '16-400': {
             fontSize: scaleFont(16),
-            fontFamily,
+
             fontWeight: '400',
             lineHeight: scaleFont(22)
         },
         '16-700': {
             fontSize: scaleFont(16),
-            fontFamily,
+
             fontWeight: '700',
             lineHeight: scaleFont(22)
         },
         '22-500': {
             fontSize: scaleFont(22),
-            fontFamily,
+
             fontWeight: '500'
             // lineHeight: scaleFont(22)
         },
         '15-500': {
             fontSize: scaleFont(15),
-            fontFamily,
+
             fontWeight: '500',
             lineHeight: scaleFont(20.4)
         },
         '15-300': {
             fontSize: scaleFont(15),
-            fontFamily,
+
             fontWeight: '500',
             lineHeight: scaleFont(20.4)
         },
         '15-400': {
             fontSize: scaleFont(15),
-            fontFamily,
+
             fontWeight: '400',
             lineHeight: scaleFont(20.4)
         },
         '12-500': {
             fontSize: scaleFont(12),
-            fontFamily,
+
             fontWeight: '500',
             lineHeight: scaleFont(16.32)
         },
         '12-300': {
             fontSize: scaleFont(12),
-            fontFamily,
+
             fontWeight: '300',
             lineHeight: scaleFont(16.32)
         },
         '12-400': {
             fontSize: scaleFont(12),
-            fontFamily,
+
             fontWeight: '400',
             lineHeight: scaleFont(16.32)
         },
         '20-500': {
             fontSize: scaleFont(20),
-            fontFamily,
+
             fontWeight: '500',
             lineHeight: scaleFont(27.2)
         },
         '20-700': {
             fontSize: scaleFont(20),
-            fontFamily,
+
             fontWeight: '700',
             lineHeight: scaleFont(27.2)
         },
         '18-700': {
             fontSize: scaleFont(18),
-            fontFamily,
+
             fontWeight: '700',
             lineHeight: scaleFont(24.48)
         },
         '16-500': {
             fontSize: scaleFont(16),
-            fontFamily,
+
             fontWeight: '500',
             lineHeight: scaleFont(22)
         }

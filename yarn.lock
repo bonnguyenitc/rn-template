@@ -2155,7 +2155,7 @@ axe-core@^4.0.2:
 axios@0.21.0:
   version "0.21.0"
   resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.0.tgz#26df088803a2350dff2c27f96fef99fe49442aca"
-  integrity sha512-fmkJBknJKoZwem3/IKSSLpkdNXZeBu5Q7GA/aRsr2btgrpappCxi2oFjZHqGdK9DoTil9PIHlPIZw2EcRJXRvw==
+  integrity sha512-fmkJBknJKoZwem3/IKSSLpkdNXZeBu5Q7GA/aRsr2btgrptmSCxi2oFjZHqGdK9DoTil9PIHlPIZw2EcRJXRvw==
   dependencies:
     follow-redirects "^1.10.0"
 
@@ -6743,7 +6743,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@15.7.2, prop-types@^15.5.10, prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@15.7.2, prop-types@^15.5.10, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -6924,13 +6924,6 @@ react-native-screens@2.12.0:
   version "2.12.0"
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.12.0.tgz#579b7a6f99b3dd777ef4a447682e46f10ce9f5eb"
   integrity sha512-sJn7xrbVXYYQ1FBKp4eg3NXL7e2EpORT5xeQcXRJHCqt5ZcGduybZWE4tFbnBeaHE5YNab9owdrrDOJTBDKKFw==
-
-react-native-shimmer@0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/react-native-shimmer/-/react-native-shimmer-0.6.0.tgz#9529c4c85665827c582ebb74a285a67a450f5f2b"
-  integrity sha512-uDrriPwzbOKj3XlFDNhCVst+veTy58RVNpcaJfLlZR2pX3/4A4P+E7rGeDUhfe2lWz/OTEwDWidVkrIcCakEng==
-  dependencies:
-    prop-types "^15.6.0"
 
 react-native-svg@12.1.0:
   version "12.1.0"
@@ -7534,7 +7527,7 @@ slice-ansi@^2.0.0, slice-ansi@^2.1.0:
 slide@^1.1.5:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
-  integrity sha1-VusCfWW00tzmyy4appTUr8nh1wc=
+  integrity sha1-VusCfWW00tzmyy4tMsTUr8nh1wc=
 
 snapdragon-node@^2.0.1:
   version "2.1.1"

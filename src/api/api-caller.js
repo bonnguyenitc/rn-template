@@ -54,14 +54,6 @@ async function requestAPI(
         config.data = dataBody;
     }
 
-    console.log('Start call:---------');
-    console.log(url);
-    console.log('Body: ');
-    console.log(dataBody);
-    console.log('headers:');
-    console.log(headers);
-    console.log('End------------\n');
-
     try {
         const net = await NetInfo.fetch();
         if (!net?.isConnected) {
@@ -85,14 +77,11 @@ async function requestAPI(
         console.error('End------------\n');
 
         isShowError &&
-            helpers.Dialog.showDialogError({
-                title:
-                    error.message === 'network'
-                        ? strings('error.network')
-                        : helpers.Function.getErrMessage(error),
-                titleConfirm: strings('title.cancel'),
-                onPressConfirm: () => helpers.Dialog.hideCurrentModal()
-            });
+            alert(
+                error.message === 'network'
+                    ? strings('error.network')
+                    : helpers.Function.getErrMessage(error)
+            );
         return isShowError
             ? null
             : {

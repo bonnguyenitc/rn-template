@@ -1,4 +1,5 @@
 apply plugin: "com.android.application"
+// TODO: Open when use Crashlytics
 // apply plugin: "io.fabric"
 apply from: project(':react-native-config').projectDir.getPath() + "/dotenv.gradle"
 
@@ -131,14 +132,14 @@ android {
     }
 
     defaultConfig {
-        applicationId "bap.template"
+        applicationId "rn.template"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0.0"
         // missingDimensionStrategy 'react-native-camera', 'general'
         multiDexEnabled true
-        resValue "string", "build_config_package", "bap.template"
+        resValue "string", "build_config_package", "rn.template"
     }
     flavorDimensions "default"
     productFlavors {
@@ -214,15 +215,18 @@ dependencies {
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
 
+    // TODO: Open when use notification
     // implementation "com.google.firebase:firebase-core:16.0.9"
     // implementation "com.google.firebase:firebase-auth:17.0.0"
     // implementation "com.google.firebase:firebase-messaging:18.0.0"
     // implementation 'me.leolin:ShortcutBadger:1.1.21@aar'
-    // implementation 'com.google.firebase:firebase-analytics:16.4.0'
 
+    // TODO: Open when use analytics + crashlytics
+    // implementation 'com.google.firebase:firebase-analytics:16.4.0'
     // implementation('com.crashlytics.sdk.android:crashlytics:2.9.9@aar') {
     //     transitive = true
     // }
+
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support:multidex:1.0.3'
 

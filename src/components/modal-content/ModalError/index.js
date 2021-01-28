@@ -2,8 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import utils from 'utils';
 import { observer } from 'mobx-react-lite';
-import { useStores } from 'stores';
-import { delayWithTime } from 'helpers/function';
 import Box from '../../Box';
 import Text from '../../Text';
 import Center from '../../Center';
@@ -44,13 +42,11 @@ function ModalError({ title, titleConfirm, onPressConfirm }) {
 ModalError.propTypes = {
     title: PropTypes.string,
     titleConfirm: PropTypes.string,
-    onPressConfirm: PropTypes.func,
-    type: PropTypes.number
+    onPressConfirm: PropTypes.func
 };
 ModalError.defaultProps = {
     title: 'title',
     titleConfirm: 'titleConfirm',
-    onPressConfirm: () => {},
-    type: 0
+    onPressConfirm: () => {}
 };
 export default observer(ModalError);
