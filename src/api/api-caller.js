@@ -80,7 +80,7 @@ async function requestAPI(
             alert(
                 error.message === 'network'
                     ? strings('error.network')
-                    : helpers.Function.getErrMessage(error)
+                    : helpers.System.getErrMessage(error)
             );
         return isShowError
             ? null

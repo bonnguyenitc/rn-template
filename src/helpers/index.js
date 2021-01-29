@@ -1,4 +1,4 @@
-import * as Function from './function';
+import * as System from './system';
 
 // eslint-disable-next-line import/prefer-default-export
-export default { Function };
+export default { System };

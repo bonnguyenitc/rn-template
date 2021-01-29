@@ -5,7 +5,7 @@ export const WINDOW_WIDTH = Dimensions.get('window').width;
 export const HEIGHT_WIDTH = iOS
     ? Dimensions.get('window').height
     : require('react-native-extra-dimensions-android').getRealWindowHeight();
-
+// Change by design
 const guidelineBaseWidth = 375;
 const guidelineBaseHeight = 812;
 
@@ -14,12 +14,12 @@ export const scaleSize = (size) => (WINDOW_WIDTH / guidelineBaseWidth) * size;
  * get Real Percent Width
  * @param {*} size: Number
  */
-export const rw = (size) => `${(size / guidelineBaseWidth) * 100}%`;
+export const rwp = (size) => `${(size / guidelineBaseWidth) * 100}%`;
 /**
  * get Real Percent Height
  * @param {*} size: Number
  */
-export const rh = (size) => `${(size / guidelineBaseHeight) * 100}%`;
+export const rhp = (size) => `${(size / guidelineBaseHeight) * 100}%`;
 /**
  * get Real Number Width
  * @param {*} size: Number

@@ -1,6 +1,6 @@
 import React from 'react';
 import Container from 'components/Container';
-import { rhn, rwn, rw } from 'utils/style';
+import { rhn, rwn, rwp } from 'utils/style';
 import Images from 'assets/Images';
 import Center from 'components/Center';
 import InputLabel from 'components/InputLabel';
@@ -27,7 +27,7 @@ function LoginScreen() {
                         variantLabel="14-500"
                         variantInput="14-500"
                         icon={Images.input_user}
-                        width={rw(303)}
+                        width={rwp(303)}
                         marginTop="s8rs"
                         styleInput={styleInput}
                         onChangeText={(text) => setUsername(text)}
