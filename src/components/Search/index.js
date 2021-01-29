@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { strings } from 'language';
+import { strings } from 'i18n';
 import Images from 'assets/Images';
 import utils from 'utils';
 import Row from '../Row';

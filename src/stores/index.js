@@ -1,5 +1,6 @@
 import { useContext, createContext } from 'react';
 import { autorun } from 'mobx';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import appStore from './app-store';
 
 const initialState = {

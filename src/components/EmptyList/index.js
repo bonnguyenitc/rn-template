@@ -1,7 +1,7 @@
 import React from 'react';
 import utils from 'utils';
 import Images from 'assets/Images';
-import { strings } from 'language';
+import { strings } from 'i18n';
 import Center from '../Center';
 import Image from '../Image';
 import Text from '../Text';

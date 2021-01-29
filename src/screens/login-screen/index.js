@@ -5,7 +5,7 @@ import Images from 'assets/Images';
 import Center from 'components/Center';
 import InputLabel from 'components/InputLabel';
 import Button from 'components/Button';
-import { strings } from 'language';
+import { strings } from 'i18n';
 import { useTheme } from '@shopify/restyle';
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';
 

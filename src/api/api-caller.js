@@ -3,7 +3,7 @@ import qs from 'querystring';
 import env from 'react-native-config';
 import utils from 'utils';
 import helpers from 'helpers';
-import { strings } from 'language';
+import { strings } from 'i18n';
 import NetInfo from '@react-native-community/netinfo';
 
 const METHOD_GET = 'get';

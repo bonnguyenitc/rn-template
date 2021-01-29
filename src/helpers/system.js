@@ -4,7 +4,7 @@
 /* eslint-disable no-restricted-syntax */
 /* eslint-disable array-callback-return */
 import Axios from 'axios';
-import { strings } from 'language';
+import { strings } from 'i18n';
 import { Linking } from 'react-native';
 import { iOS } from 'constant/platform';
 import env from 'react-native-config';

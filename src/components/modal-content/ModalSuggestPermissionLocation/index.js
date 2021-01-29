@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import utils from 'utils';
-import { strings } from 'language';
+import { strings } from 'i18n';
 import Center from '../../Center';
 import Modal from '../../Modal';
 import Text from '../../Text';

@@ -1,7 +1,6 @@
 import React from 'react';
 import { enableScreens } from 'react-native-screens';
-import { RootSiblingParent } from 'react-native-root-siblings';
-import Root from 'routes';
+import Root from 'navigation';
 import { Provider, rootStore } from 'stores';
 
 enableScreens();
@@ -19,9 +18,7 @@ const App = () => {
 
     return (
         <Provider value={rootStore}>
-            <RootSiblingParent>
-                <Root />
-            </RootSiblingParent>
+            <Root />
         </Provider>
     );
 };

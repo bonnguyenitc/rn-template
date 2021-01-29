@@ -2,7 +2,7 @@ import React from 'react';
 import { Keyboard } from 'react-native';
 import PropTypes from 'prop-types';
 import utils from 'utils';
-import { strings } from 'language';
+import { strings } from 'i18n';
 import Box from '../../Box';
 import Center from '../../Center';
 import Text from '../../Text';

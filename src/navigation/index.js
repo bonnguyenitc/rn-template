@@ -5,7 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { ThemeProvider } from '@shopify/restyle';
-import NActions from 'routes/common';
+import NActions from 'navigation/common';
 import LoginScreen from 'screens/login-screen';
 import SplashScreen from 'screens/splash-screen';
 import { theme } from 'theme';
